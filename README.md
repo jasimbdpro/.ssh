@@ -1,1 +1,1 @@
-### This method (SSH Method) allow run two github account in same local machine.
+### This method (SSH Method) allow running two github account in same local machine.
