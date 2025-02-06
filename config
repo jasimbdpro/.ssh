@@ -1,12 +1,12 @@
 #Jasim Main account
      Host github-jasim
-          HostName github.com
+          HostName github-jasim
           User git
-          IdentityFile ~/.ssh/id_js02
+          IdentityFile ~/.ssh/id_jasim_ssh
 
 
 #Shelba account
-     Host github-shelba
-          HostName github.com
+     Host github-other
+          HostName github-other
           User git
-          IdentityFile ~/.ssh/id_shelba
+          IdentityFile ~/.ssh/id_other_ssh
